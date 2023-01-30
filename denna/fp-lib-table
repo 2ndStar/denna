@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Schematic Library")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Git/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Git/random-kicad-parts/TYPE-C-31-M-12")(options "")(descr ""))
+  (lib (name "cipulot_parts")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Git/cipulot_kicad_parts/cipulot_parts.pretty")(options "")(descr ""))
+  (lib (name "cipulot_kicad_parts")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Git/cipulot_kicad_parts")(options "")(descr ""))
+)

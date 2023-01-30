@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "cipulot_parts")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Git/cipulot_kicad_parts/cipulot_parts.kicad_sym")(options "")(descr ""))
+  (lib (name "cipulot_parts1")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Git/cipulot_kicad_parts/cipulot_parts.lib")(options "")(descr ""))
+)

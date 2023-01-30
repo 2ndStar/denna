@@ -3,7 +3,7 @@
 60% Electrostatic Capacitive PCB, GH60 mounting compatible, with multi-layout support
 
 * Keyboard Maintainer: [cipulot](https://github.com/cipulot)
-* Hardware Supported: EC60
+* Hardware Supported: denna
 * Hardware Availability: TBD
 
 Make example for this keyboard (after setting up your build environment):
